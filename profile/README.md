@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/medclusive">
-    <img src="https://github.com/medclusive/static/blob/main/public/media/logo_squared.png?raw=true" width="200px">
+    <img src="media/logo_squared.png" width="200px">
   </a>
 </div>
 <div align="center">
