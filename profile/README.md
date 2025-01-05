@@ -9,7 +9,7 @@
 
 ### 💫 About
 - Based in Germany 🇩🇪
-- Working on an exclusive social network for medical students 🩺
+- Working on a E-Learning platform for medical professionals & students 🩺
 
 #### Contact
 You can reach us via <a href="mailto:contact@medclusive.net">Email</a> or on our <a href="#">Twitter</a>!
